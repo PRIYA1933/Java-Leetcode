@@ -16,6 +16,7 @@ All solutions are implemented in **Java** and organized by topics.
 | [0151-reverse-words-in-a-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PRIYA1933/Java-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -51,4 +52,8 @@ All solutions are implemented in **Java** and organized by topics.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
