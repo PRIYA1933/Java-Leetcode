@@ -14,6 +14,7 @@ All solutions are implemented in **Java** and organized by topics.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/PRIYA1933/Java-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -40,4 +41,8 @@ All solutions are implemented in **Java** and organized by topics.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
