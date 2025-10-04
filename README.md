@@ -12,6 +12,7 @@ All solutions are implemented in **Java** and organized by topics.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0205-isomorphic-strings) |
@@ -26,6 +27,7 @@ All solutions are implemented in **Java** and organized by topics.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -56,4 +58,8 @@ All solutions are implemented in **Java** and organized by topics.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0812-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
