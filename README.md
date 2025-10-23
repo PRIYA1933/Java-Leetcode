@@ -22,6 +22,7 @@ All solutions are implemented in **Java** and organized by topics.
 | [0344-reverse-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0742-to-lower-case](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PRIYA1933/Java-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/2032-largest-odd-number-in-string) |
