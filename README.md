@@ -26,6 +26,7 @@ All solutions are implemented in **Java** and organized by topics.
 | [0742-to-lower-case](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/PRIYA1933/Java-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRIYA1933/Java-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2032-largest-odd-number-in-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -89,4 +90,5 @@ All solutions are implemented in **Java** and organized by topics.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRIYA1933/Java-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
