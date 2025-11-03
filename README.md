@@ -53,6 +53,7 @@ All solutions are implemented in **Java** and organized by topics.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0643-maximum-average-subarray-i](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
@@ -84,4 +85,8 @@ All solutions are implemented in **Java** and organized by topics.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
