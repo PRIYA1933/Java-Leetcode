@@ -12,6 +12,7 @@ All solutions are implemented in **Java** and organized by topics.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0020-valid-parentheses) |
@@ -62,6 +63,7 @@ All solutions are implemented in **Java** and organized by topics.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -89,6 +91,7 @@ All solutions are implemented in **Java** and organized by topics.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRIYA1933/Java-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
