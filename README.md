@@ -56,6 +56,7 @@ All solutions are implemented in **Java** and organized by topics.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0643-maximum-average-subarray-i](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Trie
 |  |
 | ------- |
@@ -67,6 +68,7 @@ All solutions are implemented in **Java** and organized by topics.
 | [0205-isomorphic-strings](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0940-fruit-into-baskets](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -93,5 +95,6 @@ All solutions are implemented in **Java** and organized by topics.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/PRIYA1933/Java-Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRIYA1933/Java-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
